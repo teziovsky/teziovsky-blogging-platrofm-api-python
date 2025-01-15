@@ -4,3 +4,5 @@ sqlalchemy>=2.0.36
 psycopg2-binary>=2.9.10
 python-dotenv>=1.0.1
 ruff>=0.9.1
+alembic>=1.14.0
+Faker==33.3.1
